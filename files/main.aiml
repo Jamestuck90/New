@@ -1,0 +1,16 @@
+<aiml version="2.0">
+  <category>
+    <pattern>HELLO</pattern>
+    <template>Hello! I’m your CareerPath Advisor Bot. I can help you find a computer science career that fits your skills. What kind of work do you enjoy most — coding, analyzing data, designing websites, or protecting systems?</template>
+  </category>
+
+  <category>
+    <pattern>HELP</pattern>
+    <template>I can guide you toward computing careers like Software Developer, Data Analyst, Cybersecurity Specialist, AI/Machine Learning Engineer, and Web Developer. Tell me what interests you most.</template>
+  </category>
+
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>

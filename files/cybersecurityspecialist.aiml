@@ -1,0 +1,11 @@
+<aiml version="2.0">
+  <category>
+    <pattern>I LIKE SECURITY</pattern>
+    <template>You could become a <strong>Cybersecurity Specialist</strong>! These experts protect systems and data from threats. If you like solving puzzles and defending systems, this might be your path.</template>
+  </category>
+
+  <category>
+    <pattern>I ENJOY PROTECTING SYSTEMS</pattern>
+    <template>Excellent! You may enjoy working as a <strong>Cybersecurity Specialist</strong>, focusing on system defense, ethical hacking, and risk analysis.</template>
+  </category>
+</aiml>

@@ -1,0 +1,11 @@
+<aiml version="2.0">
+  <category>
+    <pattern>I LIKE ARTIFICIAL INTELLIGENCE</pattern>
+    <template>You might enjoy becoming an <strong>AI/Machine Learning Engineer</strong>! These professionals design algorithms that help machines learn from data. Math, Python, and data modeling are key skills.</template>
+  </category>
+
+  <category>
+    <pattern>I ENJOY AUTOMATION</pattern>
+    <template>That’s perfect for an <strong>AI/Machine Learning Engineer</strong> role, where you can teach systems to improve automatically from experience.</template>
+  </category>
+</aiml>

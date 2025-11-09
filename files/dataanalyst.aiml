@@ -1,0 +1,11 @@
+<aiml version="2.0">
+  <category>
+    <pattern>I LIKE WORKING WITH DATA</pattern>
+    <template>You may be a good fit for a <strong>Data Analyst</strong> role! Data analysts collect, clean, and visualize data to help organizations make decisions. Tools like Excel, SQL, and Python are great starting points.</template>
+  </category>
+
+  <category>
+    <pattern>I ENJOY FINDING PATTERNS</pattern>
+    <template>Sounds like you’d make an excellent <strong>Data Analyst</strong>. Analysts discover insights from numbers and trends to guide company strategy.</template>
+  </category>
+</aiml>

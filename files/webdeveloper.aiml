@@ -1,0 +1,11 @@
+<aiml version="2.0">
+  <category>
+    <pattern>I LIKE DESIGNING WEBSITES</pattern>
+    <template>You’d make a great <strong>Web Developer</strong>! Web developers create user-friendly websites and apps using HTML, CSS, and JavaScript. Creativity and attention to design are key skills.</template>
+  </category>
+
+  <category>
+    <pattern>I ENJOY FRONT END DESIGN</pattern>
+    <template>That’s awesome! Web development lets you mix creativity with technology to design beautiful digital experiences.</template>
+  </category>
+</aiml>

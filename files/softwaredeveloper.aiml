@@ -1,0 +1,11 @@
+<aiml version="2.0">
+  <category>
+    <pattern>I LIKE CODING</pattern>
+    <template>You might enjoy being a <strong>Software Developer</strong>! Software developers design and build applications that solve real-world problems. You can start by improving your programming skills in Java, Python, or C++.</template>
+  </category>
+
+  <category>
+    <pattern>I ENJOY BUILDING SOFTWARE</pattern>
+    <template>That’s great! You sound like a future <strong>Software Developer</strong>. Developers write and test code to create reliable applications used every day.</template>
+  </category>
+</aiml>
